@@ -1,4 +1,4 @@
-# flutter_application_1
+# Getx MVVM pattern
 
 A new Flutter project.
 
